@@ -1,0 +1,68 @@
+﻿  BAD.cpp
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BAD.cpp(5,50): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BAD.cpp(5,40): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BAD.cpp(5,30): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+  BLACKHOLE.cpp
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BAD.cpp(5,18): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BLACKHOLE.cpp(15,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BLACKHOLE.cpp(16,22): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BLACKHOLE.cpp(16,17): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BLACKHOLE.cpp(21,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BLACKHOLE.cpp(24,24): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BLACKHOLE.cpp(24,19): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BLACKHOLE.cpp(26,24): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+  BOMB.cpp
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BLACKHOLE.cpp(26,19): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BOMB.cpp(11,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BOMB.cpp(13,23): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BOMB.cpp(13,18): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BOMB.cpp(15,23): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BOMB.cpp(15,18): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BOMB.cpp(17,28): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BOMB.cpp(17,21): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BOMB.cpp(17,16): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BOMB.cpp(20,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BOMB.cpp(21,21): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BOMB.cpp(21,16): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BOMB.cpp(25,28): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BOMB.cpp(25,21): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+  BONUS.cpp
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BOMB.cpp(25,16): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BONUS.cpp(5,75): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BONUS.cpp(5,63): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BONUS.cpp(5,51): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BONUS.cpp(5,39): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BONUS.cpp(5,27): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+  GAME.cpp
+  NONPlayer.cpp
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BONUS.cpp(5,18): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\NONPlayer.cpp(29,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\NONPlayer.cpp(30,21): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\NONPlayer.cpp(30,16): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\NONPlayer.cpp(36,26): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\NONPlayer.cpp(36,21): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+  OBJECT.cpp
+  olcSimpleEngine.cpp
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\NONPlayer.cpp(36,16): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\olcSimpleEngine.cpp(941,46): warning C4244: 'argument': conversion from 'WPARAM' to 'const unsigned short', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\olcSimpleEngine.cpp(942,45): warning C4244: 'argument': conversion from 'WPARAM' to 'const unsigned short', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\olcSimpleEngine.cpp(1150,17): warning C4244: '=': conversion from 'std::streamoff' to 'uint32_t', possible loss of data
+  PLAYER.cpp
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\olcSimpleEngine.cpp(1184,27): warning C4244: '=': conversion from 'std::streamoff' to 'uint32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\PLAYER.cpp(30,31): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\PLAYER.cpp(30,31): warning C4244:         with
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\PLAYER.cpp(30,31): warning C4244:         [
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\PLAYER.cpp(30,31): warning C4244:             _Ty=int
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\PLAYER.cpp(30,31): warning C4244:         ]
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\PLAYER.cpp(31,31): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\PLAYER.cpp(31,31): warning C4244:         with
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\PLAYER.cpp(31,31): warning C4244:         [
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\PLAYER.cpp(31,31): warning C4244:             _Ty=int
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\PLAYER.cpp(31,31): warning C4244:         ]
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\PLAYER.cpp(63,27): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\PLAYER.cpp(63,22): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+  main.cpp
+  Generating Code...
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\PLAYER.cpp(63,17): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\BAD.cpp(23): warning C4715: 'BAD::PlayerCollision': not all control paths return a value
+  Space Game.vcxproj -> C:\Users\Pulcu\Desktop\IE 201\cpp ayrılmış hal\x64\Debug\Space Game.exe
